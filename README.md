@@ -4,7 +4,7 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ### 👨🏻‍💻 &nbsp;About Me
 💻 &nbsp;I'm currently working on android development and made some projects regarding it.\
-🎓&nbsp;I'm currently enrolled in Msc Biological Sciences with Computer Science in BITS Pilani, Hyderabad..\
+🎓&nbsp;I'm currently enrolled in Msc Biological Sciences with Computer Science in BITS Pilani, Hyderabad.\
 🌱 &nbsp;I'm on track for learning more about React Native and want to explore Blockchain technology.\
 ✍️ &nbsp;In my free time, I play piano, football and play some video games as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
